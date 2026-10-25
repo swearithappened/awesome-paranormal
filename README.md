@@ -34,6 +34,7 @@ Structured, searchable records rather than narrative collections.
 - [National UFO Reporting Center](https://nuforc.org) - Continuously updated database of US sighting reports, searchable by date, state and shape.
 - [MUFON Case Management System](https://mufon.com) - Volunteer investigator network with a public case database and standardised report forms.
 - [Panicd](https://www.panicd.com) - Database of reportedly haunted locations with coordinates and historical background.
+- [Encounter Atlas](https://encounteratlas.com) - Moderated world map of cryptid and UFO reports alongside Project Blue Book files, government UFO releases and hearing transcripts, with free downloadable datasets.
 
 ## Government and Historical Records
 
@@ -41,6 +42,7 @@ Public domain primary sources, suitable for research and text mining.
 
 - [Project Blue Book Archive](https://www.bluebookarchive.org) - Scanned US Air Force UFO investigation files covering 1947 to 1969.
 - [Project Blue Book at the National Archives](https://www.archives.gov/research/military/air-force/ufos) - Official record group for the Air Force investigation, including finding aids.
+- [Project Blue Book Case Files, Geocoded](https://huggingface.co/datasets/encounteratlas/project-blue-book-case-files) - All 10,622 National Archives Blue Book case files as CSV and JSON, with each place matched to map coordinates (CC BY 4.0, DOI on Zenodo).
 - [The Black Vault](https://www.theblackvault.com) - Large repository of documents released under the US Freedom of Information Act.
 - [Chronicling America](https://chroniclingamerica.loc.gov) - Library of Congress newspaper archive, useful for tracing historical accounts of hauntings and strange phenomena.
 
